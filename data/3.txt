@@ -1,0 +1,8 @@
+MSH|^~\&|^NISTLabs^L-CL^|^NIST^L-CL|^^|^^|20100407121000||ORU^R01^ORU_R01|20100407121000|P|2.5.1|0001||AL||||MT-ORU-2_R1 
+PID|1|8888|PT21^^^^AN||Mark^Peter^^^^^L||19430309|M|||834 Ocean Vista Avenue^Apt. 202^Santa Coloradonica^CA^90401||3105552233 
+ORC|RE|||ORD003-1^EHR-System 
+OBR|1|1^EHR-System|LAB003^^NIST^L-CL|087-0714^Electrolyte panel^99Lab^80061^Electrolyte panel^C4|||20100407151000||||L|||||2^Robinson^William^E^^Dr^MD^^^^^^EI||||RO||20100407121000||CH|F
+OBX|1|NM|2951-2^Serum Sodium^LN||141|meq/l|135-146||||F|||20100407121000||^DOE^JOHN|||||||Oakton Crest Laboratories^^^^^CLIA^^^^10D987432|5570 Eden Street^^Oakland^California^94607|^Smith^John^^^Dr.^MD
+OBX|2|NM|2823-3^Serum Potassium^LN||4.3|meq/l|3.5-5.3||||F|||20100407121000||^DOE^JOHN|||||||Oakton Crest Laboratories^^^^^CLIA^^^^10D987432|5570 Eden Street^^Oakland^California^94607|^Smith^John^^^Dr.^MD
+
+

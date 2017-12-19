@@ -1,0 +1,10 @@
+MSH|^~\&|^NISTLabs^L-CL^|^NIST^L-CL|^^|^^|20100407121000||ORU^R01^ORU_R01|20100407121000|P|2.5.1|0001||AL||||MT-ORU-2_R1 
+PID|1|9999|PT20^^^^AN||Grayson^Jim^^^^^L||19430309|M|||834 Ocean Vista Avenue^Apt. 202^Santa Coloradonica^CA^90401||3105552233 
+ORC|RE|||ORD003-1^EHR-System 
+OBR|1|ORD003-1^EHR-System|LAB003^^NIST^L-CL|087-0714^Comprehensive Metabolic Panel^99Lab^80061^Comprehensive Metabolic Panel^C4|||20100407151000||||L||||Arterial catheter|000100^Butler^Internist^E^^Dr^MD^^^^^^EI||||RO||20100407121000||CH|F
+OBX|1|NM|13457-7^Fasting Blood Glucose^LN||178|mg/dl|70-100 mg/dl|H|||F|||20100407121000||^DOE^JOHN|||||||Milton Street Laboratory^^^^^CLIA^^^^10D987432|40025 Milton Street^^Aurora^Colorado^80011|^Smith^John^^^Dr.^MD
+SPM||||^Arterial catheter||||||||||||||||||||HEM^Hemolyzed|
+OBX|2|NM|14682-9^Creatinine^LN||1.0|mg/dL|0.5-1.4||||F|||||^DOE^JOHN|||||||Milton Street Laboratory^^^^^CLIA^^^^10D987432|40025 Milton Street^^Aurora^Colorado^80011|^Smith^John^^^Dr.^MD
+SPM||||^Arterial catheter||||||||||||||||||||HEM^Hemolyzed|
+OBX|3|NM|14647-2^BUN^LN||18|mg/dL|7-30||||F|||||^DOE^JOHN|||||||Milton Street Laboratory^^^^^CLIA^^^^10D987432|40025 Milton Street^^Aurora^Colorado^80011|^Smith^John^^^Dr.^MD
+SPM||||^Arterial catheter||||||||||||||||||||HEM^Hemolyzed|

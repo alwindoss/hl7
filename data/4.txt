@@ -1,0 +1,12 @@
+MSH|^~\&|^NISTLabs^L-CL^|^NIST^L-CL|^^|^^|20100407121000||ORU^R01^ORU_R01|20100407121000|P|2.5.1|0001||AL||||MT-ORU-2_R1 
+PID|1|7777|PT22^^^^AN||Daniel^Scott^^^^^L||19430309|M|||834 Ocean Vista Avenue^Apt. 202^Santa Coloradonica^CA^90401||3105552233 
+ORC|RE|||ORD003-1^EHR-System 
+OBR|1|1^EHR-System|LAB003^^NIST^L-CL|087-0714^Lipid profile^99Lab^80061^Lipid profile^C4|||20100407151000||||L|||||2^Robinson^William^E^^Dr^MD^^^^^^EI||||RO||20100407121000||CH|F
+OBX|1|NM|14438-6^Total cholesterol^LN||162|mg/dl|<200||||F|||20100407121000||^DOE^JOHN|||||||Aloha Laboratories^^^^^CLIA^^^^10D987432|575 Luau Street^^Honolulu^Hawaii^96813|^Smith^John^^^Dr.^MD
+SPM||||||||||||||||||||||||HEM^Hemolyzed|
+OBX|2|NM|48090-5^HDL cholesterol^LN||43|mg/dl|>=40|H|||F|||20100407121000||^DOE^JOHN|||||||Aloha Laboratories^^^^^CLIA^^^^10D987432|575 Luau Street^^Honolulu^Hawaii^96813|^Smith^John^^^Dr.^MD
+SPM||||||||||||||||||||||||HEM^Hemolyzed|
+OBX|3|NM|55440-2^LDL cholesterol^LN||84|mg/dl|<100||||F|||20100407121000||^DOE^JOHN|||||||Aloha Laboratories^^^^^CLIA^^^^10D987432|575 Luau Street^^Honolulu^Hawaii^96813|^Smith^John^^^Dr.^MD
+SPM||||||||||||||||||||||||HEM^Hemolyzed|
+OBX|4|NM|14445-1^Triglycerides^LN||127|mg/dl|<150||||F|||20100407121000||^DOE^JOHN|||||||Aloha Laboratories^^^^^CLIA^^^^10D987432|575 Luau Street^^Honolulu^Hawaii^96813|^Smith^John^^^Dr.^MD
+SPM||||||||||||||||||||||||HEM^Hemolyzed|
